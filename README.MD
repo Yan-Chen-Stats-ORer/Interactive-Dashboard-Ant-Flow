@@ -1,6 +1,8 @@
 Interactive Dashboard for ant flow visualization: simulating large population of ant trails.
 
-## Getting Started
+## This app is now available at https://interactive-dashboard-ant-flow.streamlit.app/
+
+## Getting Started (Locally)
 
 ### 1. Install dependencies
 
